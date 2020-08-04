@@ -494,7 +494,7 @@ body {
 
 @media (max-width: 1030px) {
   .nav-link {
-    font-size: 12px;
+    font-size: 9px;
     text-align: right;
     padding: 0.5rem 1rem;
     background-color: black;
